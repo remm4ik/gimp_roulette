@@ -1,7 +1,6 @@
 # Gimp Roulette 2 player game
 Old "russian roulette" game for 2 players, original by Crazy Bonkers.
 
-![Start](screenshot1.png)
 ![In-game](screenshot2.png)
 
 Flash, Winsock TCP/IP, Chat, Server and Client - all in one application - and it's a multiplayer Internet/Network-Game. If you want you can call it: Russian Roulette. How does it work: Sends your local action FIRST to the Winsock-Control and execute it directly from the Winsock-Control, eg. Jump to the right flash-Frame. 
@@ -30,3 +29,5 @@ Already compiled EXE is included to repository.
 
 # Playing
 One player creating a server while another player is connecting by IP.
+
+![Start](screenshot1.png)
