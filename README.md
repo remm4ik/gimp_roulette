@@ -17,7 +17,6 @@ Key-Features:
 * Statistics (Percent-Bar) 
 * Ini-File - Support 
 * clean and comented Code. 
-* Includes the .fla-File, to show how it works. 
 
 Bugs: 
 None (If you find one, you can fix them) 
